@@ -1,3 +1,8 @@
+#removing the pdf books
+books/
+# the bellow stuff are the common cathe files that are inserted with python 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
